@@ -52,6 +52,10 @@ input[type="button"]:hover{
   color: red;
 }
 
+.incorrecto:hover {
+  cursor: pointer;
+}
+
 .texto {
   text-align: right;
 }
